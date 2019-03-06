@@ -14,7 +14,8 @@ redirect_from:
 
 ## Sobre Mim
 
-Sou apaixonado por desafios, tecnologia, pessoas e melhoramento pessoal.
+Sou apaixonado por desafios, tecnologia, viagens e desenvolvimento pessoal.
+
 Acredito que tudo é possível com dedicação e resiliência.
 
 Hoje me considero um desenvolvedor full-stack, o que significa que consigo trabalhar bem
@@ -26,11 +27,10 @@ onde tive a oportunidade de desenvolver 7 softwares com C++ (usando Qt).
 Também trabalhei como desenvolvedor Java por quase 3 anos para a [Touch Health](http://touchhealth.com.br/),
 empresa da área da saúde.
 
-E nos últimos 2 anos me dediquei integralmente a minha startup, a [Sheeper](http://www.sheeper.com/), 
+E nos últimos 2 anos me dediquei integralmente a minha startup, a [Sheeper](https://www.facebook.com/SheeperOfertas/), 
 onde liderei o desenvolvimento de um aplicativo para Android e iOS nativos e uma plataforma web.
 
-Atualmente estou buscando trabalhar como freelancer para projetos internacionais usando
-a plataforma [Upwork](https://www.upwork.com/freelancers/~013ee7d0843e070699?viewMode=1).
+Atualmente trabalho para um estúdio remoto norte-americano chamado [Feral](https://weareferal.com), como front-end, e às vezes trabalho em projetos no [Upwork](https://www.upwork.com/freelancers/~013ee7d0843e070699?viewMode=1).
 
 ## Habilidades
 
@@ -55,8 +55,11 @@ a plataforma [Upwork](https://www.upwork.com/freelancers/~013ee7d0843e070699?vie
 ## Projetos
 
 <ul>
-  <li><a href="http://www.aloisioimoveis.com.br/">Aloísio Imóveis</a></li>
-  <li><a href="http://www.sheeper.com/">Sheeper</a></li>
+  <li><a href="https://jdslabs.com">JDS Labs</a></li>
+  <li><a href="https://findhello.therefugeecenter.org/#/welcome">FindHello</a></li>
+  <li><a href="https://github.com/thiagorossener/jekflix-template">Jekflix</a></li>
+  <li><a href="https://www.facebook.com/SheeperOfertas/">Sheeper</a></li>
+  <li><a href="https://github.com/thiagorossener/aloisioimoveis">Aloísio Imóveis</a></li>
   <li><a href="http://www.colinadapaz.com.br/">Colina da Paz</a></li>
 </ul>
 

@@ -23,7 +23,7 @@ highlighter: rouge
 permalink: /:title/
 
 # Plugins
-gems:
+plugins:
   - jekyll-redirect-from
   - jemoji
 

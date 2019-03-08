@@ -4,7 +4,7 @@ title: "Novo layout! Blogando como um Dev com Jekyll"
 date: 2017-07-28 18:03:21
 image: 'https://res.cloudinary.com/dm7h7e8xj/image/upload/c_fill,h_399,w_760/v1501268554/sunrise_ttb9nk.jpg'
 description: Migrei meu blog do Wordpress para o Jekyll e não me arrependo.
-main-class: 'blog'
+category: 'blog'
 tags:
 - jekyll
 - blog

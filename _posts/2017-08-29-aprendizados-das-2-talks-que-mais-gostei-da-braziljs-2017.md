@@ -4,7 +4,7 @@ title: "Aprendizados das 2 talks que mais gostei da BrazilJS 2017"
 date: 2017-08-29 10:49:35
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504023028/braziljs-2017_mazdtw.jpg'
 description: Um resumo das palestras que mais me ensinaram nesse evento incrível.
-main-class: 'webdev'
+category: 'webdev'
 tags:
 - braziljs
 - eventos

@@ -4,7 +4,7 @@ title: "Jekflix: Um tema para o Jekyll"
 date: 2017-09-22 10:24:10
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1506079212/jekflix-capa_vfhuzh.png'
 description: Criei esse tema baseado no painel da Netflix para os amantes de filmes e séries.
-main-class: 'blog'
+category: 'blog'
 tags:
 - blog
 - tema

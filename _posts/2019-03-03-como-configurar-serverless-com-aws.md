@@ -4,7 +4,7 @@ title: "Como configurar Serverless com AWS Lambda"
 date: 2019-03-03 00:12:05
 image: 'https://res.cloudinary.com/dm7h7e8xj/image/upload/v1551651632/serverless-aws-lambda_dsjjwy.png'
 description: Um tutorial mastigado de como deixar seu ambiente pronto para usar o AWS Lambda com a toolkit Serverless.
-main-class: 'tutorial'
+category: 'tutorial'
 tags:
 - serverless
 - aws

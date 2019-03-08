@@ -5,7 +5,7 @@
     {
       "title"    : "{{ post.title | escape }}",
       "tags"     : "{{ post.tags | array_to_sentence_string }}",
-      "categories" : "{{ post.main-class }}",
+      "categories" : "{{ post.category }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date | date: '%d/%m/%Y'}}"
     } {% unless forloop.last %},{% endunless %}

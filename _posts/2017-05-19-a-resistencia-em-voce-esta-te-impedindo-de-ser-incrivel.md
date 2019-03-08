@@ -4,7 +4,7 @@ title: A Resistência em você está te impedindo de ser Incrível (e como lutar
   isso)
 description: Lutar pelo que se deseja não é fácil, mas o primeiro passo é saber como fazer isso.
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504809537/o-procurado_kuadwq.jpg'
-main-class: 'vida'
+category: 'vida'
 twitter_text: 'Mudar o mindset é extramemente necessário para vencer.'
 introduction: 'Lutar pelo que se deseja não é fácil, mas o primeiro passo é saber como fazer isso.'
 tags:

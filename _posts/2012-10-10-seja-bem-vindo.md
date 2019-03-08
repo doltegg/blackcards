@@ -3,7 +3,7 @@ layout: post
 title: Seja bem-vindo
 description: Criei esse blog para compartilhar.
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1504807239/morpheus_xdzgg1.jpg'
-main-class: 'blog'
+category: 'blog'
 twitter_text: 'Seja bem-vindo ao meu blog.'
 introduction: 'Mensagem de boas-vindas.'
 redirect_from:

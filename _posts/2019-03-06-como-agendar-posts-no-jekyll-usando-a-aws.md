@@ -4,7 +4,7 @@ title: "Como agendar posts no Jekyll usando a AWS"
 date: 2019-03-06 00:48:25
 image: 'https://res.cloudinary.com/dm7h7e8xj/image/upload/v1551836833/mission_impossible_djiusi.jpg'
 description: Se você sentiu falta da funcionalidade de agendar postagens em sites estáticos, esse artigo resolve o seu problema.
-main-class: 'tutorial'
+category: 'tutorial'
 tags:
 - jekyll
 - aws

@@ -4,7 +4,7 @@ title: "Diferença entre target e currentTarget em eventos no Vue.js"
 date: 2017-09-28 01:30:24
 image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/v1506567296/sniper-americano_wmr1a2.jpg'
 description: Saiba a diferença para entender a hora certa de usar cada um.
-main-class: 'javascript'
+category: 'javascript'
 tags:
 - javascript
 - vuejs

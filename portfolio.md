@@ -10,6 +10,59 @@ redirect_from:
 
 ## Portfólio
 
+## 2019
+
+### FindHello
+
+Aplicativo criado para o [Refugee Center Online (RCO)](https://therefugeecenter.org/), uma organização que ajuda refugiados a construírem uma nova vida nos Estados Unidos.
+
+#### Tecnologias utilizadas
+
+- Ionic
+- Django (Python3)
+- Sass
+- NodeJS
+
+#### Links
+
+- [Webapp](https://findhello.therefugeecenter.org/)
+- [App para Android](https://play.google.com/store/apps/details?id=com.therefugeecenter.findhello)
+- [App para iOS](https://itunes.apple.com/us/app/findhello-immigrant-help/id1446325524?mt=8)
+
+### JDS Labs
+
+Ecommerce para a JDS Labs, empresa produtora de equipamentos de áudio de alta qualidade.
+
+#### Tecnologias utilizadas
+
+- Django (Python3)
+- Sass
+- NodeJS
+- Gulp
+
+#### Links
+
+- [Website](https://jdslabs.com/)
+
+## 2018
+
+### Feral
+
+Hot page para o estúdio norte-americano em que trabalho atualmente, a página é só um chamado para o lançamento do site.
+
+#### Tecnologias utilizadas:
+
+- Django (Python3)
+- Sass
+- NodeJS
+- Gulp
+
+#### Links
+
+- [Website](https://weareferal.com/)
+
+## 2017
+
 ### Aloísio Imóveis
 
 ![Projeto - Aloísio Imóveis](http://res.cloudinary.com/dm7h7e8xj/image/upload/v1501248983/featured_aht3dq.png)
@@ -25,8 +78,9 @@ Website e sistema construído em Django e Vue.js para a Imobiliária Aloísio Im
 
 #### Links:
 
-- [Website](http://www.aloisioimoveis.com.br/)
 - [Github](https://github.com/thiagorossener/aloisioimoveis)
+
+## 2016
 
 ### Sheeper
 
@@ -47,25 +101,11 @@ Aplicativo com geolocalização para ajudar pessoas a encontrarem ofertas de sup
 
 #### Links:
 
-- [Website](http://www.sheeper.com/)
-- [Vídeo do Aplicativo](https://youtu.be/9p5OPykxr48) em inglês
-- [Vídeo da Plataforma Web](https://youtu.be/rx3pSZF602Y) em inglês
+- [Facebook](http://www.sheeper.com/)
 
-### Colina da Paz
+> **Nota**: O app e o site não estão mais no ar.
 
-![Projeto - Colina da Paz](http://res.cloudinary.com/dm7h7e8xj/image/upload/v1501248983/featured-colina-da-paz_fvxgq3.jpg)
-
-Website institucional para o Cemitério Parque Colina da Paz.
-
-#### Tecnologias utilizadas:
-
-- Wordpress
-- PHP
-- jQuery
-
-#### Links:
-
-- [Website](http://www.colinadapaz.com.br/)
+## 2015
 
 ### TRCurrencyTextField
 

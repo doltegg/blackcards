@@ -59,7 +59,7 @@ Neste tutorial, iremos configurar o [Serverless Framework](https://serverless.co
 
 Segundo a Wikipédia:
 
-> AWS, ou *Amazon Web Services*, é uma plataforma de serviços de computação em nuvem ofereceida pela Amazon.com
+> AWS, ou *Amazon Web Services*, é uma plataforma de serviços de computação em nuvem oferecida pela Amazon.com
 
 Simples, não é? Pois bem, o AWS Lambda, que iremos configurar a seguir, é o serviço de serverless oferecido pela plataforma.
 
@@ -67,7 +67,7 @@ Se ficou curioso por informações mais detalhadas sobre o serviço, recomendo e
 
 ## <a name="passo-a-passo"></a>Passo a passo
 
-Antes de comerçamos, saiba que o passo a passo que fiz é baseado na [documentação oficial do Serverless Framework](https://serverless.com/framework/docs/providers/aws/guide/iam/).
+Antes de começarmos, saiba que o passo a passo que fiz é baseado na [documentação oficial do Serverless Framework](https://serverless.com/framework/docs/providers/aws/guide/iam/).
 
 Outra coisa importante é que você irá precisar de um **cartão de crédito** para criar uma conta na AWS, mas relaxa, **nada será cobrado**, pois o AWS Lambda faz parte do *Free Tier* oferecido pela Amazon. 🙃
 

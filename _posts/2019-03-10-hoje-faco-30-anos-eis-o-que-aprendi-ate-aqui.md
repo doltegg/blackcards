@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: "Hoje faço 30 anos, eis o que aprendi até aqui"
@@ -94,7 +95,7 @@ Não basta só criar a lista, também a olho a cada 15 dias, pra ter certeza que
 
 **Leitura de livros e blogs**
 
-Nem todos os livros ou postagens são bons e úteis pra nossa vida, mas todos nos enriquecem de alguma forma, e alguns são excepcionais. E os excepecionais sim, mudam a nossa vida pra sempre.
+Nem todos os livros ou postagens são bons e úteis pra nossa vida, alguns nos enriquecem de alguma forma, e outros são excepcionais. E os excepecionais sim, mudam a nossa vida pra sempre.
 
 ### Relacionamentos
 
@@ -104,7 +105,7 @@ Com o tempo essa barreira se dissolveu, mas não significa que depois disso eu a
 
 Foram necessários alguns tombos, uns mais fortes que outros, pra eu finalmente parar pra me questionar o que eu esperava de um relacionamento e como saber se eu estou preparado para entrar em um.
 
-Dados todos os relacionamentos pelos quais passei, algumas coisas das que aprendi foram:
+Dados todos os relacionamentos pelos quais passei, algumas coisas que aprendi foram:
 
 **Autenticidade**
 
@@ -140,7 +141,7 @@ Mas essa é outra história.
 
 Fato é que quando você volta a morar com seus pais, não tem mais dinheiro, e passou os últimos 2 anos da sua vida trabalhando 12h/dia em algo que não deu certo, deixando de ter vida social, ir aos lugares que você gostava, viajar e se divertir, você passa a questionar tudo o que está fazendo.
 
-Isso foi bom, pois foi assim que conheci o [Welcome to the Django](https://welcometothedjango.com.br), o Henrique Bastos, e uma galera numa situação semelhante, que me ajudou a sair da onde estava e a recomeçar minha carreira, mas dessa vez, pensando direito.
+Isso foi bom, pois foi assim que conheci o [Welcome to the Django](https://welcometothedjango.com.br), o Henrique Bastos, e uma galera numa situação semelhante, que me ajudou a sair de onde estava e a recomeçar minha carreira, mas dessa vez, pensando direito.
 
 Dois anos depois desse processo de redescobrimento, algumas lições aprendidas me ajudaram (e ainda tem me ajudado) bastante nessa jornada.
 

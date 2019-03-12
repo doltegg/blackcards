@@ -186,4 +186,6 @@ Por fim, agradeço se chegou até aqui. Enquanto escrevia esse post consegui tir
 
 Espero que o que eu compartilhei te ajude de alguma forma, e seria muito louco se você tivesse algo pra compartilhar também, em qualquer que seja a área da sua vida, os aprendizados são sempre bem-vindos e os comentários estão abertos!
 
+**ATUALIZAÇÃO:** Pra quem se identificou com os questionamentos, recomendo o livro "O Poder da Ação", do Paulo Vieira. Esse livro me ajudou a responder a várias dessas perguntas e a seguir em frente.
+
 > A experiência é uma lanterna dependurada nas costas que apenas ilumina o caminho já percorrido. **- Confúcio**

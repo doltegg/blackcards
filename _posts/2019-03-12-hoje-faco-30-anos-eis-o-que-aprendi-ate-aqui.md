@@ -74,7 +74,7 @@ Se questionar sobre a vida, pra mim, é muito importante.
 
 Dizem que o momento da morte é aquele em que você realmente para pra se perguntar tudo o que tem feito e se valeu a pena, você passa um raio-X na sua vida e em questão de segundos sabe se viveu tudo o que tinha de viver ou se você se arrepende de não ter feito algo.
 
-E por que não simular esse evento de tempos em tempos? Parece sombrio, mas pense que podemos morrer a qualquer momento, por uma doença, atropelado na rua, ou engasgado com uma bala de café que ganhamos na saída do restaurante. O momento certo é imprevisível, e invevitável.
+E por que não simular esse evento de tempos em tempos? Parece sombrio, mas pense que podemos morrer a qualquer momento, por uma doença, atropelado na rua, ou engasgado com uma bala de café que ganhamos na saída do restaurante. O momento certo é imprevisível, e inevitável.
 
 Então eu paro por um minuto e penso:
 
@@ -94,7 +94,7 @@ Não basta só criar a lista, também a olho a cada 15 dias, pra ter certeza que
 
 **Leitura de livros e blogs**
 
-Nem todos os livros ou postagens são bons e úteis pra nossa vida, alguns nos enriquecem de alguma forma, e outros são excepcionais. E os excepecionais sim, mudam a nossa vida pra sempre.
+Nem todos os livros ou postagens são bons e úteis pra nossa vida, alguns nos enriquecem de alguma forma, e outros são excepcionais. E os excepcionais sim, mudam a nossa vida pra sempre.
 
 ### Relacionamentos
 

@@ -72,7 +72,7 @@ Algumas das perguntas acima eu já me fiz e parei pra responder e refletir sobre
 
 Se questionar sobre a vida, pra mim, é muito importante.
 
-Dizem que o momento da morte é aquele em que você realmente pára pra se perguntar tudo o que tem feito e se valeu a pena, você passa um raio-X na sua vida e em questão de segundos sabe se viveu tudo o que tinha de viver ou se você se arrepende de não ter feito algo.
+Dizem que o momento da morte é aquele em que você realmente para pra se perguntar tudo o que tem feito e se valeu a pena, você passa um raio-X na sua vida e em questão de segundos sabe se viveu tudo o que tinha de viver ou se você se arrepende de não ter feito algo.
 
 E por que não simular esse evento de tempos em tempos? Parece sombrio, mas pense que podemos morrer a qualquer momento, por uma doença, atropelado na rua, ou engasgado com uma bala de café que ganhamos na saída do restaurante. O momento certo é imprevisível, e invevitável.
 

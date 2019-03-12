@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Hoje faço 30 anos, eis o que aprendi até aqui"

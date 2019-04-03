@@ -1,14 +1,14 @@
 # Site Settings
 title: Thiago Rossener | Desenvolvedor Front-End
 email: thiago@rossener.com
-description: Um blog sobre desenvolvimento web e melhoramento pessoal.
+description: Um blog sobre desenvolvimento web e pessoal.
 baseurl: ""
 url: "https://www.rossener.com"
 google_analytics: "UA-99616615-1"
 
 # User Settings
 username: Thiago Rossener
-user_description: Desenvolvedor front-end, apaixonado por desafios, tecnologia, viagens & melhoramento pessoal.
+user_description: Desenvolvedor front-end remoto e mochileiro, sempre aprendendo algo.
 github_username: thiagorossener
 facebook_username: thiagorossener
 twitter_username: thiagorossener

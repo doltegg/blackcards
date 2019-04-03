@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre Mim
-description: Desenvolvedor full stack, apaixonado por desafios, tecnologia, pessoas e melhoramento pessoal.
+description: Desenvolvedor front-end remoto e mochileiro, sempre aprendendo algo.
 permalink: /sobre-mim/
 redirect_from:
  - /about/
@@ -27,10 +27,10 @@ onde tive a oportunidade de desenvolver 7 softwares com C++ (usando Qt).
 Também trabalhei como desenvolvedor Java por quase 3 anos para a [Touch Health](http://touchhealth.com.br/),
 empresa da área da saúde.
 
-E nos últimos 2 anos me dediquei integralmente a minha startup, a [Sheeper](https://www.facebook.com/SheeperOfertas/), 
+Por 2 anos me dediquei integralmente a minha startup, a [Sheeper](https://www.facebook.com/SheeperOfertas/), 
 onde liderei o desenvolvimento de um aplicativo para Android e iOS nativos e uma plataforma web.
 
-Atualmente trabalho para um estúdio remoto norte-americano chamado [Feral](https://weareferal.com), como front-end, e às vezes trabalho em projetos no [Upwork](https://www.upwork.com/freelancers/~013ee7d0843e070699?viewMode=1).
+Há 1 ano trabalho para um estúdio remoto norte-americano chamado [Feral](https://weareferal.com), como front-end, e às vezes trabalho em projetos no [Upwork](https://www.upwork.com/freelancers/~013ee7d0843e070699?viewMode=1).
 
 ## Habilidades
 

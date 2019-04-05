@@ -16,7 +16,7 @@ Fazer uma galeria de imagens é algo recorrente pra quem trabalha com front-end,
 
 Ao final deste artigo, você vai ter algo assim:
 
-<p class="codepen" data-height="400" data-theme-id="0" data-default-tab="result" data-user="thiagorossener" data-slug-hash="WmqQyo" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Infinite slides gallery using vanilla JS">
+<p class="codepen" data-height="400" data-theme-id="dark" data-default-tab="result" data-user="thiagorossener" data-slug-hash="WmqQyo" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Infinite slides gallery using vanilla JS">
   <span>See the Pen <a href="https://codepen.io/thiagorossener/pen/WmqQyo/">
   Infinite slides gallery using vanilla JS</a> by Thiago Rossener (<a href="https://codepen.io/thiagorossener">@thiagorossener</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>

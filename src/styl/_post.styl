@@ -29,9 +29,9 @@
         mainFont(400)
         font-size rem(18px)
         line-height rem(35px)
+        letter-spacing 0.05rem
         padding 0 rem(20px)
         margin 0 auto rem(20px)
-        letter-spacing 0.05rem
         +above(cut)
             font-size rem(20px)
             line-height rem(40px)
@@ -64,6 +64,8 @@
             margin-right rem(10px)
             +above(cut)
                 margin-right rem(30px)
+    p.center
+        text-align center
     li 
         padding rem(10px) 0
         ul 
@@ -128,12 +130,21 @@
       margin 50px auto
 
     > table
+        mainFont(400)
+        font-size rem(18px)
+        line-height rem(35px)
+        letter-spacing 0.05rem
         margin rem(50px) auto
-        +below(cut)
-            display none
+        +above(cut)
+            font-size rem(20px)
+            line-height rem(40px)
         th, td
             border rem(2px) solid #ccc
             padding rem(5px)
+    
+    > table.no-border
+        th, td
+            border 0
     
     td > pre
         padding 0

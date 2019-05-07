@@ -2,8 +2,8 @@
 title: Thiago Rossener | Desenvolvedor Front-End
 email: thiago@rossener.com
 description: Um blog sobre desenvolvimento web e pessoal.
-baseurl: ""
-url: "https://www.rossener.com"
+baseurl: "/blackcards"
+url: "https://doltegg.github.io"
 google_analytics: "UA-99616615-1"
 
 # User Settings

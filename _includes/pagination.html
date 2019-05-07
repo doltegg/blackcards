@@ -1,7 +1,8 @@
 <!-- Pagination links -->
 <div class="pagination">
     {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous" onclick="ga('send', 'event', 'pagination', 'click', 'page previous')">
+        <!--<a href="{{ paginator.previous_page_path }}" class="previous" onclick="ga('send', 'event', 'pagination', 'click', 'page previous')">-->
+            <a href="/page{{ paginator.previous_page_path }}" class="previous" onclick="ga('send', 'event', 'pagination', 'click', 'page previous')">
             <svg>
                 <use xlink:href="#icon-arrow-right"></use>
             </svg>

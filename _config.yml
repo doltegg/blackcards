@@ -1,7 +1,7 @@
 # Site Settings
-title: Thiago Rossener | Desenvolvedor Front-End
-email: thiago@rossener.com
-description: Um blog sobre desenvolvimento web e pessoal.
+title: egg
+email: r90323011@ntu.edu.tw
+description: egg's description
 baseurl: "/blackcards"
 url: "https://doltegg.github.io"
 google_analytics: "UA-99616615-1"
@@ -34,7 +34,7 @@ plugins:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: 首頁
     url: /
   - title: Portfólio
     url: /portfolio/
@@ -42,6 +42,7 @@ links:
     url: /sobre-mim/
   - title: Contato
     url: /contato/
+    
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']

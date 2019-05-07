@@ -22,7 +22,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:title/
 paginate: 12
-paginate_path: "/blackcards/page/:num/"
+paginate_path: "/page/:num/"
 svg_color: "#ff0a16"
 
 # Plugins
@@ -35,6 +35,8 @@ plugins:
 # For external links add external: true
 links:
   - title: 首頁
+    url: /
+   - title: 標籤
     url: /
   - title: Portfólio
     url: /portfolio/

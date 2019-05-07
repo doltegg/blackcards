@@ -22,7 +22,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:title/
 paginate: 12
-paginate_path: "/blackcards/page/:num/"
+paginate_path: "/blackcards/page:num/"
 svg_color: "#ff0a16"
 
 # Plugins

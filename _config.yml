@@ -34,10 +34,8 @@ plugins:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: 首頁
+  - title: Home
     url: /
-   - title: 標籤
-    url: /tags/
   - title: Portfólio
     url: /portfolio/
   - title: Sobre mim
